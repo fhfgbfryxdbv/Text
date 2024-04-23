@@ -1,0 +1,59 @@
+body{
+    background-color: lightgrey;
+}
+p{
+    font-size: 50px;
+    margin: 90px;
+    background-color: aliceblue;
+}
+.p1{
+    text-shadow: 3px 3px green, -4px -4px violet;
+    background-color: lightblue;
+}
+.p2{
+    font-family: cursive;
+    font-weight: 100;
+}
+.p3{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 600;
+}
+
+.p4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: brown;
+
+
+}
+.p5{
+    text-transform: lowercase;
+}
+.p6{
+    text-transform: uppercase;
+    text-align: justify;
+    box-shadow: -4px -4px black;
+    font-size: 1.45em;
+}
+.p7{
+    font-style: italic;
+    text-decoration: overline;
+    text-decoration-style: solid;
+    text-decoration-color: brown;
+}
+.p8{
+    text-align: start;
+    background-color: orange;
+}
+.p9{
+    font-family: "Comforter Brush", cursive;
+    background-color: orangered;
+}
+.s1{
+    color: orange;
+    background-color: chocolate;
+}
